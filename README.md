@@ -1,3 +1,3 @@
 # kakao-clone
 
-kakao Destop app store
+kakao Destop app clone
